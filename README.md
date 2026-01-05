@@ -14,8 +14,6 @@ The company serves **hundreds of thousands of customers**, producing large volum
 
 This project focuses on **designing and implementing a modern, cloud-based analytics platform** that consolidates raw telecom data and transforms it into **trusted, analytics-ready datasets** for decision-making and customer churn analysis.
 
----
-
 ## Architecture Explanation
 
 The solution follows **Azure Medallion Architecture** using **Azure Data Lake Storage Gen2** and **Databricks**.
