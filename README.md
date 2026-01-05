@@ -18,32 +18,32 @@ This project focuses on **designing and implementing a modern, cloud-based analy
 
 As TelcoSphere grows, leadership faces several challenges:
 
-*Manual and fragmented data ingestion processes
+* Manual and fragmented data ingestion processes
 
-*Limited visibility into customer behaviour and subscription lifecycles
+* Limited visibility into customer behaviour and subscription lifecycles
 
-*Rising customer churn without actionable insights
+* Rising customer churn without actionable insights
 
-*Inconsistent reporting across departments
+* Inconsistent reporting across departments
 
-*Difficulty scaling analytics as data volume increases
+* Difficulty scaling analytics as data volume increases
 
 A centralised, automated, and analytics-ready data platform was required to address these issues.
 
 
 ## Tech Stack
 
-*Azure Data Factory (ADF) – Data ingestion and orchestration
+* Azure Data Factory (ADF) – Data ingestion and orchestration
 
-*Azure Data Lake Storage Gen2 (ADLS Gen2) – data storage
+* Azure Data Lake Storage Gen2 (ADLS Gen2) – data storage
 
-*Databricks (PySpark) – Data transformation and enrichment
+* Databricks (PySpark) – Data transformation and enrichment
 
-*SQL – Analytics and churn calculations
+* SQL – Analytics and churn calculations
 
-*Azure Data Studio – Data Querying 
+* Azure Data Studio – Data Querying 
 
-*GitHub – Version control
+* GitHub – Version control
 
 
 ## Architecture Explanation
