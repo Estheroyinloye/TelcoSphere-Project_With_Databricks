@@ -47,6 +47,8 @@ A centralised, automated, and analytics-ready data platform was required to addr
 
 
 ## Architecture Explanation
+<img width="1350" height="421" alt="TelcoSphere_Architecture" src="https://github.com/user-attachments/assets/62758438-4665-40d8-9109-cd6aa4e8a7d6" />
+
 
 The solution follows **Azure Medallion Architecture** using **Azure Data Lake Storage Gen2** and **Databricks**.
 
