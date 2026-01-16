@@ -95,7 +95,7 @@ The solution follows **Azure Medallion Architecture** using **Azure Data Lake St
 
 7. **Analytics & Serving Layer**
 
-   * **Azure Data Studio** used for querying and validating curated datasets
+   * **Azure Synapse Analytics** used for querying and validating curated datasets
    * Gold-layer data serves as the analytical staging and serving layer
 
 8. **Visualisation Layer**
